@@ -7,5 +7,17 @@
 </head>
 <body>
     <h1>Page 1</h1>
+    <hr>
+    <h2></h2>
+    <p>
+        <b>abc</b>
+        <i>abc</i>
+    </p>
+    <br><br>
+    <pre>abc</pre><br>
+    <progress value="60" max="100"></progress><br>
+    <progress value="30" max="100"></progress>
+    
+
 </body>
 </html>
